@@ -1,0 +1,15 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "in simple terms express is a nodeJS frame work, where all of the stuff you would normally build from the ground up is aready serve for you to use, now this make express extremly flexible that it can be use to be run on server side aplication, and also api for micro services, this make express not only robust for a small app that does not need a full backend server but also really flexible in terms of use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
